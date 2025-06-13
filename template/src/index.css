@@ -2,7 +2,8 @@
 .number-generator {
   text-align: center;
   align-content: center;
-  justify-content: center;
+  margin: auto;
+   max-width: 800px;
 }
 
 .number-container {
@@ -46,8 +47,8 @@ a:hover {
 
 body {
   margin: 0;
-  min-width: 320px;
-  min-height: 100vh;
+  align-content: center;
+  justify-content: center;
   background-color: antiquewhite;
 }
 
